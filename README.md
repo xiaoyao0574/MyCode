@@ -1,2 +1,2 @@
 # MyCode
-Thinking; Learning; Conclusion; Accumulation 
+Reading; Learning; Thinking; Conclusion; Accumulation 
